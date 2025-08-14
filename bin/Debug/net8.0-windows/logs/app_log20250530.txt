@@ -1,0 +1,102 @@
+2025-05-30 20:21:48.509 +05:00 [INF] === Application Starting ===
+2025-05-30 20:21:48.720 +05:00 [INF] Trace Operation ID: "f3b357f9-d343-4cb5-a94c-02e0f889ce33"
+2025-05-30 20:21:56.332 +05:00 [INF] == New Operation Started: "f07e0545-6049-40a0-b18d-e7dd13184184" ==
+2025-05-30 20:21:56.342 +05:00 [INF] ["f07e0545-6049-40a0-b18d-e7dd13184184"] User clicked Login.
+2025-05-30 20:21:57.883 +05:00 [INF] ["f07e0545-6049-40a0-b18d-e7dd13184184"] Authorization code received successfully.
+2025-05-30 20:21:59.482 +05:00 [INF] ["f07e0545-6049-40a0-b18d-e7dd13184184"] Access token obtained successfully.
+2025-05-30 20:23:54.867 +05:00 [INF] === Application Starting ===
+2025-05-30 20:23:55.016 +05:00 [INF] Trace Operation ID: "fa9a4582-554f-4544-b658-9d5808c4a1a6"
+2025-05-30 20:23:58.639 +05:00 [INF] == New Operation Started: "d558db65-0e29-4e68-9802-1be5ffdc3e3f" ==
+2025-05-30 20:23:58.640 +05:00 [INF] ["d558db65-0e29-4e68-9802-1be5ffdc3e3f"] User clicked Login.
+2025-05-30 20:24:00.166 +05:00 [INF] ["d558db65-0e29-4e68-9802-1be5ffdc3e3f"] Authorization code received successfully.
+2025-05-30 20:24:01.478 +05:00 [INF] ["d558db65-0e29-4e68-9802-1be5ffdc3e3f"] Access token obtained successfully.
+2025-05-30 20:29:05.488 +05:00 [INF] === Application Starting ===
+2025-05-30 20:29:06.778 +05:00 [INF] Trace Operation ID: "c856ee13-4ffe-443b-96b4-f70c2d0daacc"
+2025-05-30 20:29:08.824 +05:00 [INF] == New Operation Started: "e770f331-648e-46bd-a032-141c00a2bbbc" ==
+2025-05-30 20:29:08.825 +05:00 [INF] ["e770f331-648e-46bd-a032-141c00a2bbbc"] User clicked Login.
+2025-05-30 20:29:10.331 +05:00 [INF] ["e770f331-648e-46bd-a032-141c00a2bbbc"] Authorization code received successfully.
+2025-05-30 20:29:12.025 +05:00 [INF] ["e770f331-648e-46bd-a032-141c00a2bbbc"] Access token obtained successfully.
+2025-05-30 20:30:15.766 +05:00 [INF] === Application Closing ===
+2025-05-30 20:30:16.161 +05:00 [INF] === Application Starting ===
+2025-05-30 20:30:16.310 +05:00 [INF] Trace Operation ID: "3df52261-3860-4faf-b168-5d05a60e73ad"
+2025-05-30 20:30:19.102 +05:00 [INF] === Application Closing ===
+2025-05-30 20:32:36.060 +05:00 [INF] === Application Starting ===
+2025-05-30 20:32:36.279 +05:00 [INF] Trace Operation ID: "81d79981-b1bd-43a0-b13e-10100bbba5ea"
+2025-05-30 20:32:38.193 +05:00 [INF] == New Operation Started: "2980c382-d476-4130-b956-6a55acba8977" ==
+2025-05-30 20:32:38.194 +05:00 [INF] ["2980c382-d476-4130-b956-6a55acba8977"] User clicked Login.
+2025-05-30 20:32:39.749 +05:00 [INF] ["2980c382-d476-4130-b956-6a55acba8977"] Authorization code received successfully.
+2025-05-30 20:32:41.930 +05:00 [INF] ["2980c382-d476-4130-b956-6a55acba8977"] Access token obtained successfully.
+2025-05-30 20:33:33.908 +05:00 [INF] === Application Closing ===
+2025-05-30 20:33:34.312 +05:00 [INF] === Application Starting ===
+2025-05-30 20:33:34.451 +05:00 [INF] Trace Operation ID: "f283a840-9373-4230-8b31-d5e2f3d10a53"
+2025-05-30 20:33:36.834 +05:00 [INF] === Application Closing ===
+2025-05-30 20:34:55.452 +05:00 [INF] === Application Starting ===
+2025-05-30 20:34:55.624 +05:00 [INF] Trace Operation ID: "45a7e931-01df-484c-a760-b6c51342cdfb"
+2025-05-30 20:34:57.318 +05:00 [INF] == New Operation Started: "2a092276-ea32-4a68-acda-ce4334bedacd" ==
+2025-05-30 20:34:57.319 +05:00 [INF] ["2a092276-ea32-4a68-acda-ce4334bedacd"] User clicked Login.
+2025-05-30 20:34:58.743 +05:00 [INF] ["2a092276-ea32-4a68-acda-ce4334bedacd"] Authorization code received successfully.
+2025-05-30 20:35:00.610 +05:00 [INF] ["2a092276-ea32-4a68-acda-ce4334bedacd"] Access token obtained successfully.
+2025-05-30 20:40:14.074 +05:00 [INF] === Application Starting ===
+2025-05-30 20:40:14.274 +05:00 [INF] Trace Operation ID: "6a0aa9e7-16f4-4bbd-84de-fb49a6aaf06f"
+2025-05-30 20:40:16.212 +05:00 [INF] == New Operation Started: "f667438c-f120-49ee-8a56-ef942e25c65c" ==
+2025-05-30 20:40:16.213 +05:00 [INF] ["f667438c-f120-49ee-8a56-ef942e25c65c"] User clicked Login.
+2025-05-30 20:40:17.710 +05:00 [INF] ["f667438c-f120-49ee-8a56-ef942e25c65c"] Authorization code received successfully.
+2025-05-30 20:40:19.657 +05:00 [INF] ["f667438c-f120-49ee-8a56-ef942e25c65c"] Access token obtained successfully.
+2025-05-30 20:45:01.111 +05:00 [INF] === Application Starting ===
+2025-05-30 20:45:01.256 +05:00 [INF] Trace Operation ID: "e346fa22-e532-4ba3-ae15-ffec2ddabd05"
+2025-05-30 20:45:03.177 +05:00 [INF] == New Operation Started: "433f2f1e-53ee-497b-bd25-3defdc0f2dd3" ==
+2025-05-30 20:45:03.178 +05:00 [INF] ["433f2f1e-53ee-497b-bd25-3defdc0f2dd3"] User clicked Login.
+2025-05-30 20:45:04.686 +05:00 [INF] ["433f2f1e-53ee-497b-bd25-3defdc0f2dd3"] Authorization code received successfully.
+2025-05-30 20:45:06.188 +05:00 [INF] ["433f2f1e-53ee-497b-bd25-3defdc0f2dd3"] Access token obtained successfully.
+2025-05-30 20:47:29.678 +05:00 [INF] === Application Starting ===
+2025-05-30 20:47:29.821 +05:00 [INF] Trace Operation ID: "b22e4454-5b4c-45f1-80eb-674f1b4f9246"
+2025-05-30 20:47:55.871 +05:00 [INF] === Application Starting ===
+2025-05-30 20:47:56.022 +05:00 [INF] Trace Operation ID: "6555765e-8c93-4d0e-a5e3-facf2a8b86a9"
+2025-05-30 20:47:58.685 +05:00 [INF] == New Operation Started: "5e46728b-1c20-4043-952f-47165fca6340" ==
+2025-05-30 20:47:58.685 +05:00 [INF] ["5e46728b-1c20-4043-952f-47165fca6340"] User clicked Login.
+2025-05-30 20:48:00.481 +05:00 [INF] ["5e46728b-1c20-4043-952f-47165fca6340"] Authorization code received successfully.
+2025-05-30 20:48:02.516 +05:00 [INF] ["5e46728b-1c20-4043-952f-47165fca6340"] Access token obtained successfully.
+2025-05-30 20:49:03.264 +05:00 [INF] === Application Starting ===
+2025-05-30 20:49:03.474 +05:00 [INF] Trace Operation ID: "a6d305bf-e64d-4525-8f2a-d7f78bf7a2bb"
+2025-05-30 20:49:04.952 +05:00 [INF] == New Operation Started: "8d712418-baf8-47af-a2c4-e59a8d6153c4" ==
+2025-05-30 20:49:04.952 +05:00 [INF] ["8d712418-baf8-47af-a2c4-e59a8d6153c4"] User clicked Login.
+2025-05-30 20:49:06.438 +05:00 [INF] ["8d712418-baf8-47af-a2c4-e59a8d6153c4"] Authorization code received successfully.
+2025-05-30 20:49:08.536 +05:00 [INF] ["8d712418-baf8-47af-a2c4-e59a8d6153c4"] Access token obtained successfully.
+2025-05-30 20:50:18.891 +05:00 [INF] === Application Starting ===
+2025-05-30 20:50:19.056 +05:00 [INF] Trace Operation ID: "b20c2547-c413-4866-8e2d-74e3251aea6b"
+2025-05-30 20:50:22.058 +05:00 [INF] == New Operation Started: "ec53c57d-9e89-4012-addb-bc8dd716fd14" ==
+2025-05-30 20:50:22.059 +05:00 [INF] ["ec53c57d-9e89-4012-addb-bc8dd716fd14"] User clicked Login.
+2025-05-30 20:50:23.479 +05:00 [INF] ["ec53c57d-9e89-4012-addb-bc8dd716fd14"] Authorization code received successfully.
+2025-05-30 20:50:25.066 +05:00 [INF] ["ec53c57d-9e89-4012-addb-bc8dd716fd14"] Access token obtained successfully.
+2025-05-30 21:02:28.242 +05:00 [INF] === Application Starting ===
+2025-05-30 21:02:28.687 +05:00 [INF] Trace Operation ID: "fa9ea0a6-fbdc-48c5-8b43-6573cdd2b813"
+2025-05-30 21:02:35.394 +05:00 [INF] == New Operation Started: "8f537140-f021-4ca5-8301-fe09066805a0" ==
+2025-05-30 21:02:35.396 +05:00 [INF] ["8f537140-f021-4ca5-8301-fe09066805a0"] User clicked Login.
+2025-05-30 21:02:37.349 +05:00 [INF] ["8f537140-f021-4ca5-8301-fe09066805a0"] Authorization code received successfully.
+2025-05-30 21:02:39.045 +05:00 [INF] ["8f537140-f021-4ca5-8301-fe09066805a0"] Access token obtained successfully.
+2025-05-30 21:02:48.426 +05:00 [INF] == New Operation Started: "43cd04cc-f189-49b3-a3c1-dc8d04f988b6" ==
+2025-05-30 21:02:48.427 +05:00 [INF] ["43cd04cc-f189-49b3-a3c1-dc8d04f988b6"] Starting LoadInitialRecommendedSongs...
+2025-05-30 21:02:48.427 +05:00 [INF] ["43cd04cc-f189-49b3-a3c1-dc8d04f988b6"] Selected random query: genre:dance
+2025-05-30 21:02:48.427 +05:00 [INF] ["43cd04cc-f189-49b3-a3c1-dc8d04f988b6"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Adance&type=track&limit=20
+2025-05-30 21:02:50.401 +05:00 [INF] ["43cd04cc-f189-49b3-a3c1-dc8d04f988b6"] Successfully loaded recommended songs.
+2025-05-30 21:02:50.403 +05:00 [INF] Operation 'LoadInitialRecommendedSongs' completed in 1975 ms. [ID: "43cd04cc-f189-49b3-a3c1-dc8d04f988b6"]
+2025-05-30 21:03:18.583 +05:00 [INF] == New Operation Started: "eeccc0f2-de9d-4768-a850-21b9fc73d8c6" ==
+2025-05-30 21:03:18.583 +05:00 [INF] ["eeccc0f2-de9d-4768-a850-21b9fc73d8c6"] Starting LoadInitialRecommendedSongs...
+2025-05-30 21:03:18.583 +05:00 [INF] ["eeccc0f2-de9d-4768-a850-21b9fc73d8c6"] Selected random query: mood:happy
+2025-05-30 21:03:18.583 +05:00 [INF] ["eeccc0f2-de9d-4768-a850-21b9fc73d8c6"] Sending GET request to: https://api.spotify.com/v1/search?q=mood%3Ahappy&type=track&limit=20
+2025-05-30 21:03:23.262 +05:00 [INF] ["eeccc0f2-de9d-4768-a850-21b9fc73d8c6"] Successfully loaded recommended songs.
+2025-05-30 21:03:23.263 +05:00 [INF] Operation 'LoadInitialRecommendedSongs' completed in 4680 ms. [ID: "eeccc0f2-de9d-4768-a850-21b9fc73d8c6"]
+2025-05-30 21:07:44.577 +05:00 [INF] === Application Starting ===
+2025-05-30 21:07:44.742 +05:00 [INF] Trace Operation ID: "d7ec7861-52ed-4770-b67a-36af6e48b702"
+2025-05-30 21:07:46.399 +05:00 [INF] == New Operation Started: "1cfdb1eb-3355-49a4-a77d-e692b5ddc67d" ==
+2025-05-30 21:07:46.400 +05:00 [INF] ["1cfdb1eb-3355-49a4-a77d-e692b5ddc67d"] User clicked Login.
+2025-05-30 21:07:47.863 +05:00 [INF] ["1cfdb1eb-3355-49a4-a77d-e692b5ddc67d"] Authorization code received successfully.
+2025-05-30 21:07:54.235 +05:00 [INF] ["1cfdb1eb-3355-49a4-a77d-e692b5ddc67d"] Access token obtained successfully.
+2025-05-30 21:07:57.378 +05:00 [INF] == New Operation Started: "9db58951-0f1d-4b23-927e-34abcb30789d" ==
+2025-05-30 21:07:57.378 +05:00 [INF] ["9db58951-0f1d-4b23-927e-34abcb30789d"] Starting LoadInitialRecommendedSongs...
+2025-05-30 21:07:57.378 +05:00 [INF] ["9db58951-0f1d-4b23-927e-34abcb30789d"] Selected random query: genre:rock
+2025-05-30 21:07:57.380 +05:00 [INF] == New Operation Started: "97e1ef22-6ddf-4200-a7b5-0b9851c73284" ==
+2025-05-30 21:07:59.082 +05:00 [INF] ["97e1ef22-6ddf-4200-a7b5-0b9851c73284"] ✅ Spotify API Health Check Passed.
+2025-05-30 21:07:59.086 +05:00 [INF] Operation 'Spotify Health Check' completed in 1704 ms. [ID: "97e1ef22-6ddf-4200-a7b5-0b9851c73284"]
+2025-05-30 21:07:59.088 +05:00 [INF] ["97e1ef22-6ddf-4200-a7b5-0b9851c73284"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Arock&type=track&limit=20
+2025-05-30 21:08:00.800 +05:00 [INF] ["97e1ef22-6ddf-4200-a7b5-0b9851c73284"] Successfully loaded recommended songs.

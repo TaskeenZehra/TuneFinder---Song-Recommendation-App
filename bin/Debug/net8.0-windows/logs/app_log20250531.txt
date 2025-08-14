@@ -1,0 +1,75 @@
+2025-05-31 09:11:26.916 +05:00 [INF] === Application Starting ===
+2025-05-31 09:11:27.524 +05:00 [INF] Trace Operation ID: "31dfad27-2cd8-45ac-a141-da24f6e886ba"
+2025-05-31 09:12:23.347 +05:00 [INF] == New Operation Started: "17274e28-e1d3-4a40-a444-10372a6c39a7" ==
+2025-05-31 09:12:23.348 +05:00 [INF] ["17274e28-e1d3-4a40-a444-10372a6c39a7"] User clicked Login.
+2025-05-31 09:12:35.750 +05:00 [INF] ["17274e28-e1d3-4a40-a444-10372a6c39a7"] Authorization code received successfully.
+2025-05-31 09:12:37.260 +05:00 [INF] ["17274e28-e1d3-4a40-a444-10372a6c39a7"] Access token obtained successfully.
+2025-05-31 09:12:44.494 +05:00 [INF] == New Operation Started: "190b7f88-c567-4681-a7cd-15266b0758e9" ==
+2025-05-31 09:12:44.494 +05:00 [INF] ["190b7f88-c567-4681-a7cd-15266b0758e9"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:12:44.495 +05:00 [INF] ["190b7f88-c567-4681-a7cd-15266b0758e9"] Selected random query: genre:hip-hop
+2025-05-31 09:12:44.496 +05:00 [INF] == New Operation Started: "1ccaa8d7-95a5-4a80-871b-dcb05d87ec2c" ==
+2025-05-31 09:12:46.394 +05:00 [WRN] ["1ccaa8d7-95a5-4a80-871b-dcb05d87ec2c"] ⚠️ Spotify API returned status code: Forbidden
+2025-05-31 09:12:46.397 +05:00 [INF] Operation 'Spotify Health Check' completed in 1899 ms. [ID: "1ccaa8d7-95a5-4a80-871b-dcb05d87ec2c"]
+2025-05-31 09:12:46.397 +05:00 [INF] ["1ccaa8d7-95a5-4a80-871b-dcb05d87ec2c"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Ahip-hop&type=track&limit=20
+2025-05-31 09:12:52.548 +05:00 [WRN] ["1ccaa8d7-95a5-4a80-871b-dcb05d87ec2c"] Spotify API Error: 403 Forbidden
+2025-05-31 09:13:24.534 +05:00 [INF] === Application Closing ===
+2025-05-31 09:13:24.899 +05:00 [INF] === Application Starting ===
+2025-05-31 09:13:24.999 +05:00 [INF] Trace Operation ID: "cbb1ace1-e2b5-4aad-8221-c86df716014c"
+2025-05-31 09:13:37.559 +05:00 [INF] == New Operation Started: "56acfaa0-f2c7-40c2-a7c2-02ad54e33e18" ==
+2025-05-31 09:13:37.560 +05:00 [INF] ["56acfaa0-f2c7-40c2-a7c2-02ad54e33e18"] User clicked Login.
+2025-05-31 09:13:39.141 +05:00 [INF] ["56acfaa0-f2c7-40c2-a7c2-02ad54e33e18"] Authorization code received successfully.
+2025-05-31 09:13:41.774 +05:00 [INF] ["56acfaa0-f2c7-40c2-a7c2-02ad54e33e18"] Access token obtained successfully.
+2025-05-31 09:13:49.578 +05:00 [INF] === Application Closing ===
+2025-05-31 09:14:02.300 +05:00 [INF] === Application Starting ===
+2025-05-31 09:14:02.485 +05:00 [INF] Trace Operation ID: "57a6ca95-4e14-430f-824e-a46739af8f9f"
+2025-05-31 09:14:07.721 +05:00 [INF] == New Operation Started: "bc657625-2a8c-46f6-9a35-db9c6257b092" ==
+2025-05-31 09:14:07.722 +05:00 [INF] ["bc657625-2a8c-46f6-9a35-db9c6257b092"] User clicked Login.
+2025-05-31 09:14:10.932 +05:00 [INF] ["bc657625-2a8c-46f6-9a35-db9c6257b092"] Authorization code received successfully.
+2025-05-31 09:14:12.148 +05:00 [INF] ["bc657625-2a8c-46f6-9a35-db9c6257b092"] Access token obtained successfully.
+2025-05-31 09:14:17.199 +05:00 [INF] == New Operation Started: "ff47a1e3-e26a-4ce9-bbdf-1369e281dd05" ==
+2025-05-31 09:14:17.199 +05:00 [INF] ["ff47a1e3-e26a-4ce9-bbdf-1369e281dd05"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:14:17.200 +05:00 [INF] ["ff47a1e3-e26a-4ce9-bbdf-1369e281dd05"] Selected random query: genre:edm
+2025-05-31 09:14:17.202 +05:00 [INF] == New Operation Started: "34a3fc9e-228a-4a5c-9dd5-d89f857c346a" ==
+2025-05-31 09:14:17.906 +05:00 [INF] ["34a3fc9e-228a-4a5c-9dd5-d89f857c346a"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:14:17.909 +05:00 [INF] Operation 'Spotify Health Check' completed in 705 ms. [ID: "34a3fc9e-228a-4a5c-9dd5-d89f857c346a"]
+2025-05-31 09:14:17.910 +05:00 [INF] ["34a3fc9e-228a-4a5c-9dd5-d89f857c346a"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aedm&type=track&limit=20
+2025-05-31 09:14:19.664 +05:00 [INF] ["34a3fc9e-228a-4a5c-9dd5-d89f857c346a"] Successfully loaded recommended songs.
+2025-05-31 09:15:33.914 +05:00 [INF] == New Operation Started: "14c793da-255d-441d-9057-c873c1a2fe25" ==
+2025-05-31 09:15:33.914 +05:00 [INF] ["14c793da-255d-441d-9057-c873c1a2fe25"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:15:33.914 +05:00 [INF] ["14c793da-255d-441d-9057-c873c1a2fe25"] Selected random query: genre:rock
+2025-05-31 09:15:33.914 +05:00 [INF] == New Operation Started: "719ee41d-e342-4353-a2d9-711974a14212" ==
+2025-05-31 09:15:34.623 +05:00 [INF] ["719ee41d-e342-4353-a2d9-711974a14212"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:15:34.624 +05:00 [INF] Operation 'Spotify Health Check' completed in 710 ms. [ID: "719ee41d-e342-4353-a2d9-711974a14212"]
+2025-05-31 09:15:34.625 +05:00 [INF] ["719ee41d-e342-4353-a2d9-711974a14212"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Arock&type=track&limit=20
+2025-05-31 09:15:36.042 +05:00 [INF] ["719ee41d-e342-4353-a2d9-711974a14212"] Successfully loaded recommended songs.
+2025-05-31 09:16:00.166 +05:00 [INF] == New Operation Started: "92534a4f-0247-4ea5-87a6-9813388bc0cc" ==
+2025-05-31 09:16:00.166 +05:00 [INF] ["92534a4f-0247-4ea5-87a6-9813388bc0cc"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:16:00.166 +05:00 [INF] ["92534a4f-0247-4ea5-87a6-9813388bc0cc"] Selected random query: genre:pop
+2025-05-31 09:16:00.166 +05:00 [INF] == New Operation Started: "0d5d90a8-cbc3-48ee-b053-8384ac4f35af" ==
+2025-05-31 09:16:00.960 +05:00 [INF] ["0d5d90a8-cbc3-48ee-b053-8384ac4f35af"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:16:00.961 +05:00 [INF] Operation 'Spotify Health Check' completed in 794 ms. [ID: "0d5d90a8-cbc3-48ee-b053-8384ac4f35af"]
+2025-05-31 09:16:00.962 +05:00 [INF] ["0d5d90a8-cbc3-48ee-b053-8384ac4f35af"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Apop&type=track&limit=20
+2025-05-31 09:16:02.920 +05:00 [INF] ["0d5d90a8-cbc3-48ee-b053-8384ac4f35af"] Successfully loaded recommended songs.
+2025-05-31 09:16:06.884 +05:00 [INF] == New Operation Started: "3d3ffce2-7948-43ec-8bac-066f9ce04da8" ==
+2025-05-31 09:16:06.884 +05:00 [INF] ["3d3ffce2-7948-43ec-8bac-066f9ce04da8"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:16:06.884 +05:00 [INF] ["3d3ffce2-7948-43ec-8bac-066f9ce04da8"] Selected random query: trending
+2025-05-31 09:16:06.884 +05:00 [INF] == New Operation Started: "b5a74556-377e-4eb7-a288-454b63f8edb9" ==
+2025-05-31 09:16:07.579 +05:00 [INF] ["b5a74556-377e-4eb7-a288-454b63f8edb9"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:16:07.580 +05:00 [INF] Operation 'Spotify Health Check' completed in 695 ms. [ID: "b5a74556-377e-4eb7-a288-454b63f8edb9"]
+2025-05-31 09:16:07.580 +05:00 [INF] ["b5a74556-377e-4eb7-a288-454b63f8edb9"] Sending GET request to: https://api.spotify.com/v1/search?q=trending&type=track&limit=20
+2025-05-31 09:16:09.166 +05:00 [INF] ["b5a74556-377e-4eb7-a288-454b63f8edb9"] Successfully loaded recommended songs.
+2025-05-31 09:16:11.514 +05:00 [INF] === Application Closing ===
+2025-05-31 09:16:11.956 +05:00 [INF] === Application Starting ===
+2025-05-31 09:16:12.105 +05:00 [INF] Trace Operation ID: "87fbdafa-f387-4e1c-8938-043dfc7173cd"
+2025-05-31 09:16:13.977 +05:00 [INF] == New Operation Started: "0f799a5b-2524-4066-880d-53775dbeb683" ==
+2025-05-31 09:16:13.978 +05:00 [INF] ["0f799a5b-2524-4066-880d-53775dbeb683"] User clicked Login.
+2025-05-31 09:16:15.306 +05:00 [INF] ["0f799a5b-2524-4066-880d-53775dbeb683"] Authorization code received successfully.
+2025-05-31 09:16:16.578 +05:00 [INF] ["0f799a5b-2524-4066-880d-53775dbeb683"] Access token obtained successfully.
+2025-05-31 09:16:20.171 +05:00 [INF] == New Operation Started: "3c74c44b-a382-4138-8a17-2ed25bb47421" ==
+2025-05-31 09:16:20.171 +05:00 [INF] ["3c74c44b-a382-4138-8a17-2ed25bb47421"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:16:20.172 +05:00 [INF] ["3c74c44b-a382-4138-8a17-2ed25bb47421"] Selected random query: genre:hip-hop
+2025-05-31 09:16:20.174 +05:00 [INF] == New Operation Started: "a3003025-2617-4dd5-a168-68c5f0025936" ==
+2025-05-31 09:16:20.946 +05:00 [INF] ["a3003025-2617-4dd5-a168-68c5f0025936"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:16:20.948 +05:00 [INF] Operation 'Spotify Health Check' completed in 773 ms. [ID: "a3003025-2617-4dd5-a168-68c5f0025936"]
+2025-05-31 09:16:20.949 +05:00 [INF] ["a3003025-2617-4dd5-a168-68c5f0025936"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Ahip-hop&type=track&limit=20
+2025-05-31 09:16:22.786 +05:00 [INF] ["a3003025-2617-4dd5-a168-68c5f0025936"] Successfully loaded recommended songs.

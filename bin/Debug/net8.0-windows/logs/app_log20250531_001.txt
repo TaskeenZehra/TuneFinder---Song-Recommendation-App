@@ -1,0 +1,110 @@
+2025-05-31 09:48:48.181 +05:00 [INF] === Application Starting ===
+2025-05-31 09:48:48.387 +05:00 [INF] Trace Operation ID: "c7638f4a-0ec4-4374-911e-4b18f6e939f2"
+2025-05-31 09:48:52.965 +05:00 [INF] == New Operation Started: "54af8cee-54a2-4d6b-803b-79ae62d2ffd9" ==
+2025-05-31 09:48:52.967 +05:00 [INF] ["54af8cee-54a2-4d6b-803b-79ae62d2ffd9"] User clicked Login.
+2025-05-31 09:48:54.622 +05:00 [INF] ["54af8cee-54a2-4d6b-803b-79ae62d2ffd9"] Authorization code received successfully.
+2025-05-31 09:48:56.236 +05:00 [INF] ["54af8cee-54a2-4d6b-803b-79ae62d2ffd9"] Access token obtained successfully.
+2025-05-31 09:49:04.252 +05:00 [INF] == New Operation Started: "673f98ac-2372-43ca-8267-4bd15aa0f010" ==
+2025-05-31 09:49:04.252 +05:00 [INF] ["673f98ac-2372-43ca-8267-4bd15aa0f010"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:49:04.252 +05:00 [INF] ["673f98ac-2372-43ca-8267-4bd15aa0f010"] Selected random query: genre:pop
+2025-05-31 09:49:04.254 +05:00 [INF] == New Operation Started: "73e6f700-3e85-4ed7-b07c-bbfc7004c658" ==
+2025-05-31 09:49:05.077 +05:00 [INF] ["73e6f700-3e85-4ed7-b07c-bbfc7004c658"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:49:05.080 +05:00 [INF] Operation 'Spotify Health Check' completed in 824 ms. [ID: "73e6f700-3e85-4ed7-b07c-bbfc7004c658"]
+2025-05-31 09:49:05.081 +05:00 [INF] ["73e6f700-3e85-4ed7-b07c-bbfc7004c658"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Apop&type=track&limit=20
+2025-05-31 09:49:06.914 +05:00 [INF] ["73e6f700-3e85-4ed7-b07c-bbfc7004c658"] Successfully loaded recommended songs.
+2025-05-31 09:49:47.721 +05:00 [INF] == New Operation Started: "9a7b7c53-7157-4316-a708-1fe73da1b374" ==
+2025-05-31 09:49:47.721 +05:00 [INF] ["9a7b7c53-7157-4316-a708-1fe73da1b374"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:49:47.721 +05:00 [INF] ["9a7b7c53-7157-4316-a708-1fe73da1b374"] Selected random query: genre:rock
+2025-05-31 09:49:47.721 +05:00 [INF] == New Operation Started: "230eeb87-9fa6-4d89-b56f-9ffc9423d3ef" ==
+2025-05-31 09:49:48.347 +05:00 [INF] ["230eeb87-9fa6-4d89-b56f-9ffc9423d3ef"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:49:48.347 +05:00 [INF] Operation 'Spotify Health Check' completed in 625 ms. [ID: "230eeb87-9fa6-4d89-b56f-9ffc9423d3ef"]
+2025-05-31 09:49:48.347 +05:00 [INF] ["230eeb87-9fa6-4d89-b56f-9ffc9423d3ef"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Arock&type=track&limit=20
+2025-05-31 09:49:51.158 +05:00 [INF] ["230eeb87-9fa6-4d89-b56f-9ffc9423d3ef"] Successfully loaded recommended songs.
+2025-05-31 09:49:52.912 +05:00 [INF] == New Operation Started: "7e286e4a-388a-4d6a-8cdc-e7911ea7b614" ==
+2025-05-31 09:49:52.912 +05:00 [INF] ["7e286e4a-388a-4d6a-8cdc-e7911ea7b614"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:49:52.912 +05:00 [INF] ["7e286e4a-388a-4d6a-8cdc-e7911ea7b614"] Selected random query: genre:indie
+2025-05-31 09:49:52.912 +05:00 [INF] == New Operation Started: "c9fc9fa8-3459-4e05-92d1-c26144897196" ==
+2025-05-31 09:49:53.748 +05:00 [INF] ["c9fc9fa8-3459-4e05-92d1-c26144897196"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:49:53.749 +05:00 [INF] Operation 'Spotify Health Check' completed in 836 ms. [ID: "c9fc9fa8-3459-4e05-92d1-c26144897196"]
+2025-05-31 09:49:53.749 +05:00 [INF] ["c9fc9fa8-3459-4e05-92d1-c26144897196"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aindie&type=track&limit=20
+2025-05-31 09:49:55.083 +05:00 [INF] ["c9fc9fa8-3459-4e05-92d1-c26144897196"] Successfully loaded recommended songs.
+2025-05-31 09:50:32.171 +05:00 [INF] == New Operation Started: "93a8b7b1-621f-46a6-af35-74cb79aff008" ==
+2025-05-31 09:50:32.172 +05:00 [INF] ["93a8b7b1-621f-46a6-af35-74cb79aff008"] Starting LoadInitialRecommendedSongs...
+2025-05-31 09:50:32.172 +05:00 [INF] ["93a8b7b1-621f-46a6-af35-74cb79aff008"] Selected random query: genre:indie
+2025-05-31 09:50:32.172 +05:00 [INF] == New Operation Started: "dc8f6e71-1085-4f76-8ee0-92b766e474f2" ==
+2025-05-31 09:50:33.024 +05:00 [INF] ["dc8f6e71-1085-4f76-8ee0-92b766e474f2"] ✅ Spotify API Health Check Passed.
+2025-05-31 09:50:33.026 +05:00 [INF] Operation 'Spotify Health Check' completed in 854 ms. [ID: "dc8f6e71-1085-4f76-8ee0-92b766e474f2"]
+2025-05-31 09:50:33.027 +05:00 [INF] ["dc8f6e71-1085-4f76-8ee0-92b766e474f2"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aindie&type=track&limit=20
+2025-05-31 09:50:34.517 +05:00 [INF] ["dc8f6e71-1085-4f76-8ee0-92b766e474f2"] Successfully loaded recommended songs.
+2025-05-31 10:12:52.975 +05:00 [INF] === Application Starting ===
+2025-05-31 10:12:54.200 +05:00 [INF] Trace Operation ID: "c2499410-713e-432a-9dd1-7a15a5c1aea4"
+2025-05-31 10:12:57.366 +05:00 [INF] == New Operation Started: "058899f3-6394-40c6-bb23-09a8d713b975" ==
+2025-05-31 10:12:57.367 +05:00 [INF] ["058899f3-6394-40c6-bb23-09a8d713b975"] User clicked Login.
+2025-05-31 10:12:58.824 +05:00 [INF] ["058899f3-6394-40c6-bb23-09a8d713b975"] Authorization code received successfully.
+2025-05-31 10:13:00.323 +05:00 [INF] ["058899f3-6394-40c6-bb23-09a8d713b975"] Access token obtained successfully.
+2025-05-31 10:13:11.167 +05:00 [INF] == New Operation Started: "02be1569-6d39-4c66-80d9-dfb2c69bd42d" ==
+2025-05-31 10:13:11.167 +05:00 [INF] ["02be1569-6d39-4c66-80d9-dfb2c69bd42d"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:13:11.167 +05:00 [INF] ["02be1569-6d39-4c66-80d9-dfb2c69bd42d"] Selected random query: genre:classical
+2025-05-31 10:13:11.170 +05:00 [INF] == New Operation Started: "04620e67-f9e1-4829-ac48-1a0ccb24560a" ==
+2025-05-31 10:13:11.786 +05:00 [INF] ["04620e67-f9e1-4829-ac48-1a0ccb24560a"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:13:11.789 +05:00 [INF] Operation 'Spotify Health Check' completed in 617 ms. [ID: "04620e67-f9e1-4829-ac48-1a0ccb24560a"]
+2025-05-31 10:13:11.790 +05:00 [INF] ["04620e67-f9e1-4829-ac48-1a0ccb24560a"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aclassical&type=track&limit=20
+2025-05-31 10:13:13.859 +05:00 [INF] ["04620e67-f9e1-4829-ac48-1a0ccb24560a"] Successfully loaded recommended songs.
+2025-05-31 10:13:41.919 +05:00 [INF] == New Operation Started: "51948fe1-9861-4d15-a6b7-7f42b4152d8b" ==
+2025-05-31 10:13:41.919 +05:00 [INF] ["51948fe1-9861-4d15-a6b7-7f42b4152d8b"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:13:41.919 +05:00 [INF] ["51948fe1-9861-4d15-a6b7-7f42b4152d8b"] Selected random query: genre:hip-hop
+2025-05-31 10:13:41.919 +05:00 [INF] == New Operation Started: "beaadf03-0795-4763-b798-bf1f05b4f081" ==
+2025-05-31 10:13:42.704 +05:00 [INF] ["beaadf03-0795-4763-b798-bf1f05b4f081"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:13:42.706 +05:00 [INF] Operation 'Spotify Health Check' completed in 787 ms. [ID: "beaadf03-0795-4763-b798-bf1f05b4f081"]
+2025-05-31 10:13:42.707 +05:00 [INF] ["beaadf03-0795-4763-b798-bf1f05b4f081"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Ahip-hop&type=track&limit=20
+2025-05-31 10:13:44.227 +05:00 [INF] ["beaadf03-0795-4763-b798-bf1f05b4f081"] Successfully loaded recommended songs.
+2025-05-31 10:13:49.931 +05:00 [INF] == New Operation Started: "231230a9-df24-4e80-9a60-132d09016631" ==
+2025-05-31 10:13:49.931 +05:00 [INF] ["231230a9-df24-4e80-9a60-132d09016631"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:13:49.931 +05:00 [INF] ["231230a9-df24-4e80-9a60-132d09016631"] Selected random query: genre:dance
+2025-05-31 10:13:49.931 +05:00 [INF] == New Operation Started: "bcf7fd67-b778-4ad6-aac7-07d66cfb8e32" ==
+2025-05-31 10:13:50.677 +05:00 [INF] ["bcf7fd67-b778-4ad6-aac7-07d66cfb8e32"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:13:50.679 +05:00 [INF] Operation 'Spotify Health Check' completed in 747 ms. [ID: "bcf7fd67-b778-4ad6-aac7-07d66cfb8e32"]
+2025-05-31 10:13:50.679 +05:00 [INF] ["bcf7fd67-b778-4ad6-aac7-07d66cfb8e32"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Adance&type=track&limit=20
+2025-05-31 10:13:52.218 +05:00 [INF] ["bcf7fd67-b778-4ad6-aac7-07d66cfb8e32"] Successfully loaded recommended songs.
+2025-05-31 10:13:58.870 +05:00 [INF] == New Operation Started: "89697359-6f0a-4575-90b9-514785689465" ==
+2025-05-31 10:13:58.870 +05:00 [INF] ["89697359-6f0a-4575-90b9-514785689465"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:13:58.870 +05:00 [INF] ["89697359-6f0a-4575-90b9-514785689465"] Selected random query: genre:dance
+2025-05-31 10:13:58.870 +05:00 [INF] == New Operation Started: "caba3d0f-da7f-4d90-a651-fe48e8791978" ==
+2025-05-31 10:13:59.508 +05:00 [INF] ["caba3d0f-da7f-4d90-a651-fe48e8791978"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:13:59.510 +05:00 [INF] Operation 'Spotify Health Check' completed in 639 ms. [ID: "caba3d0f-da7f-4d90-a651-fe48e8791978"]
+2025-05-31 10:13:59.510 +05:00 [INF] ["caba3d0f-da7f-4d90-a651-fe48e8791978"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Adance&type=track&limit=20
+2025-05-31 10:14:00.795 +05:00 [INF] ["caba3d0f-da7f-4d90-a651-fe48e8791978"] Successfully loaded recommended songs.
+2025-05-31 10:14:19.506 +05:00 [INF] === Application Closing ===
+2025-05-31 10:14:20.061 +05:00 [INF] === Application Starting ===
+2025-05-31 10:14:20.201 +05:00 [INF] Trace Operation ID: "68e69713-086b-419d-a179-bcb302b7c934"
+2025-05-31 10:14:25.374 +05:00 [INF] === Application Closing ===
+2025-05-31 10:23:59.954 +05:00 [INF] === Application Starting ===
+2025-05-31 10:24:00.378 +05:00 [INF] Trace Operation ID: "10a83524-3e9a-4f63-a9b5-582d698d38d4"
+2025-05-31 10:24:05.125 +05:00 [INF] == New Operation Started: "c8b44bf7-9491-4f50-b258-a4fc2dcbc618" ==
+2025-05-31 10:24:05.126 +05:00 [INF] ["c8b44bf7-9491-4f50-b258-a4fc2dcbc618"] User clicked Login.
+2025-05-31 10:24:12.564 +05:00 [INF] ["c8b44bf7-9491-4f50-b258-a4fc2dcbc618"] Authorization code received successfully.
+2025-05-31 10:24:15.293 +05:00 [INF] ["c8b44bf7-9491-4f50-b258-a4fc2dcbc618"] Access token obtained successfully.
+2025-05-31 10:24:23.396 +05:00 [INF] == New Operation Started: "9e76316c-cfe2-4905-b450-b52a3ea8f429" ==
+2025-05-31 10:24:23.396 +05:00 [INF] ["9e76316c-cfe2-4905-b450-b52a3ea8f429"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:24:23.397 +05:00 [INF] ["9e76316c-cfe2-4905-b450-b52a3ea8f429"] Selected random query: genre:classical
+2025-05-31 10:24:23.399 +05:00 [INF] == New Operation Started: "91769ee0-b2ac-48aa-a4f5-003751835652" ==
+2025-05-31 10:24:24.032 +05:00 [INF] ["91769ee0-b2ac-48aa-a4f5-003751835652"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:24:24.037 +05:00 [INF] Operation 'Spotify Health Check' completed in 634 ms. [ID: "91769ee0-b2ac-48aa-a4f5-003751835652"]
+2025-05-31 10:24:24.040 +05:00 [INF] ["91769ee0-b2ac-48aa-a4f5-003751835652"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aclassical&type=track&limit=20
+2025-05-31 10:24:25.758 +05:00 [INF] ["91769ee0-b2ac-48aa-a4f5-003751835652"] Successfully loaded recommended songs.
+2025-05-31 10:25:01.492 +05:00 [INF] == New Operation Started: "936abdea-f0d7-4872-b506-4706654e6972" ==
+2025-05-31 10:25:01.492 +05:00 [INF] ["936abdea-f0d7-4872-b506-4706654e6972"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:25:01.492 +05:00 [INF] ["936abdea-f0d7-4872-b506-4706654e6972"] Selected random query: genre:edm
+2025-05-31 10:25:01.492 +05:00 [INF] == New Operation Started: "e7c8bb9a-5815-45bd-a237-679b10bc06f6" ==
+2025-05-31 10:25:02.175 +05:00 [INF] ["e7c8bb9a-5815-45bd-a237-679b10bc06f6"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:25:02.175 +05:00 [INF] Operation 'Spotify Health Check' completed in 683 ms. [ID: "e7c8bb9a-5815-45bd-a237-679b10bc06f6"]
+2025-05-31 10:25:02.176 +05:00 [INF] ["e7c8bb9a-5815-45bd-a237-679b10bc06f6"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aedm&type=track&limit=20
+2025-05-31 10:25:03.726 +05:00 [INF] ["e7c8bb9a-5815-45bd-a237-679b10bc06f6"] Successfully loaded recommended songs.
+2025-05-31 10:25:09.700 +05:00 [INF] == New Operation Started: "9aae61ab-dbe4-40a1-94e6-1cf964c0f756" ==
+2025-05-31 10:25:09.700 +05:00 [INF] ["9aae61ab-dbe4-40a1-94e6-1cf964c0f756"] Starting LoadInitialRecommendedSongs...
+2025-05-31 10:25:09.700 +05:00 [INF] ["9aae61ab-dbe4-40a1-94e6-1cf964c0f756"] Selected random query: genre:indie
+2025-05-31 10:25:09.700 +05:00 [INF] == New Operation Started: "2ce2d6c9-fb82-4308-ad08-b3ab139b4c7e" ==
+2025-05-31 10:25:10.254 +05:00 [INF] ["2ce2d6c9-fb82-4308-ad08-b3ab139b4c7e"] ✅ Spotify API Health Check Passed.
+2025-05-31 10:25:10.255 +05:00 [INF] Operation 'Spotify Health Check' completed in 554 ms. [ID: "2ce2d6c9-fb82-4308-ad08-b3ab139b4c7e"]
+2025-05-31 10:25:10.255 +05:00 [INF] ["2ce2d6c9-fb82-4308-ad08-b3ab139b4c7e"] Sending GET request to: https://api.spotify.com/v1/search?q=genre%3Aindie&type=track&limit=20
+2025-05-31 10:25:11.550 +05:00 [INF] ["2ce2d6c9-fb82-4308-ad08-b3ab139b4c7e"] Successfully loaded recommended songs.

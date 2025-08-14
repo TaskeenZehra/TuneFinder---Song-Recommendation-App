@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\bin\Debug\jwtkey.exe.config
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\bin\Debug\jwtkey.exe
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\bin\Debug\jwtkey.pdb
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\obj\Debug\jwtkey.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\obj\Debug\jwtkey.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\obj\Debug\jwtkey.exe
+C:\Users\pc\Desktop\UNI\6th Semester\PNDC\jwtkey\obj\Debug\jwtkey.pdb
