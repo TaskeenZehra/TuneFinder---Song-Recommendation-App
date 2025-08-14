@@ -4,6 +4,8 @@
 **TuneFinder** is a **C# WinForms desktop application** that delivers personalized song recommendations using the **Spotify Web API**.  
 It allows users to search for tracks, discover similar songs, explore playlists, and manage favorites — all while keeping user sessions secure with **JWT authentication**.  
 
+<img width="375" height="434" alt="image" src="https://github.com/user-attachments/assets/febf17ad-30bb-4c6e-a0ee-994b842ed82f" />
+
 
 ##  Features
 - **Secure User Authentication** – JWT-based login for secure session handling.
@@ -32,7 +34,7 @@ All other features work perfectly for free-tier users.
 ##  Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/TuneFinder.git
+   git clone https://github.com/TaskeenZehra/TuneFinder.git
 Open the project in Visual Studio.
 
 #### Install required NuGet packages:
